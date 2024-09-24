@@ -11,7 +11,7 @@ pose = mpPose.Pose(min_detection_confidence=0.7, min_tracking_confidence=0.7, mo
 mpDraw = mp.solutions.drawing_utils
 
 lm_list = []
-label = "normal2"  # Change this "violent" when collecting different data
+label = "normal3"  # Change this "violent" when collecting different data
 no_of_frames = 2000
 
 

@@ -8,7 +8,7 @@ pose = mpPose.Pose()
 mpDraw = mp.solutions.drawing_utils
 
 lm_list = []
-label = "normal"  # Change this to "suspicious" or "violent" when collecting different data
+label = "normal3"  # Change this to "suspicious" or "violent" when collecting different data
 no_of_frames = 2000
 
 
